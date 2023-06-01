@@ -4,19 +4,19 @@
 }
 
 body {
-    background-color: white;
+    background-color:#FFB6C1;
 }
 
 h1 {
    margin-bottom: 15px;
 text-align: center;
 color: #ff4532;
-font-size: 50px;
+font-size: 60px;
 }
 
 section {
     position: relative;
-    padding: 15px;
+    padding: 20px;
     width: 90%;
 }
 
@@ -27,7 +27,7 @@ p {
 
 div {
     position: relative;
-    background-color: gray;
+    background-color:gray;
     border: 3.5px solid black;
     width: 100%;
     margin-left: auto;
